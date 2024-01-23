@@ -11,56 +11,23 @@ It's great to meet you! Feel free to drop me a message on LinkedIn anytime. Let'
 ## Skills
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  </a>
-  <a href="https://reactjs.org/docs/getting-started.html" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  </a>
-  <a href="https://nextjs.org/docs" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/next.png" alt="Next.js" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  </a>
-  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-  </a>
-  <a href="https://redux.js.org/introduction/getting-started" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
-  </a>
-  <a href="https://webpack.js.org/guides/getting-started/" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" />
-  </a>
-  <a href="https://nodejs.org/en/docs/" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/en/starter/installing.html" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" />
-  </a>
-  <a href="https://www.heroku.com/" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" />
-  </a>
-  <a href="https://developer.salesforce.com/docs/" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce" />
-  </a>
-  <a href="https://docs.unity3d.com/Manual/index.html" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop/learn/getting-started.html" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" />
-  </a>
-  <a href="https://helpx.adobe.com/illustrator/user-guide.html" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" />
-  </a>
-  <a href="https://www.figma.com/docs/" rel="nofollow" target="_blank" style="text-decoration: none">
-    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
+<a href="https://developer.salesforce.com/docs/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/salesforce.png" width="36" height="36" alt="Salesforce" /></a>
+</p>
+<a href="https://docs.unity3d.com/Manual/index.html" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg](https://img.icons8.com/ios/50/000000/unity.png)https://img.icons8.com/ios/50/000000/unity.png" width="36" height="36" alt="Figma" /></a>
+</p>
