@@ -10,22 +10,22 @@ It's great to meet you! Feel free to drop me a message on LinkedIn anytime. Let'
 
 ## Skills
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/next.png" alt="Next.js" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
-  <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" />
-  <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" />
-  <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce" />
-  <img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" />
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" />
-  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" />
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" rel="nofollow" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" rel="nofollow" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" rel="nofollow" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" rel="nofollow" />
+  <img src="https://img.icons8.com/color/48/000000/next.png" alt="Next.js" rel="nofollow" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" rel="nofollow"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" rel="nofollow"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" rel="nofollow"/>
+  <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" rel="nofollow"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" rel="nofollow"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" rel="nofollow"/>
+  <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" rel="nofollow"/>
+  <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce" rel="nofollow"/>
+  <img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" rel="nofollow"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" rel="nofollow"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" rel="nofollow"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" rel="nofollow"/>
 </p>
