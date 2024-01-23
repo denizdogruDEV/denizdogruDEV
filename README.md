@@ -29,3 +29,8 @@ It's great to meet you! Feel free to drop me a message on LinkedIn anytime. Let'
 <a href="https://developer.salesforce.com/docs/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/salesforce.png" width="36" height="36" alt="Salesforce" /></a>
 <a href="https://docs.unity3d.com/Manual/index.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/000000/unity.png" width="36" height="36" alt="Unity" /></a>
 </p>
+
+
+## Stats
+
+[![DenizDogruDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenizDogruDEV)](https://github.com/DenizDogruDEV/github-readme-stats)
