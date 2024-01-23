@@ -10,21 +10,22 @@ It's great to meet you! Feel free to drop me a message on LinkedIn anytime. Let'
 
 ## Skills
 
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
-- ![Next.js](https://img.icons8.com/color/48/000000/next.png) Next.js
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
-- ![Redux](https://img.icons8.com/color/48/000000/redux.png) Redux
-- ![Webpack](https://img.icons8.com/color/48/000000/webpack.png) Webpack
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
-- ![Express](https://img.icons8.com/color/48/000000/express.png) Express
-- ![Heroku](https://img.icons8.com/color/48/000000/heroku.png) Heroku
-- - ![Unity](https://img.icons8.com/ios/50/000000/unity.png) Unity
-- ![Salesforce](https://img.icons8.com/color/48/000000/salesforce.png) Salesforce
-- ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) Photoshop
-- ![Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png) Illustrator
-- ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma
-
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/next.png" alt="Next.js" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
+  <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" />
+  <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" />
+  <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce" />
+  <img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" />
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" />
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" />
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
+</p>
