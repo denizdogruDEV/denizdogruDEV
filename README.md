@@ -6,7 +6,7 @@ I'm a self-taught developer who made the leap from architecture to web developme
 
 What sets me apart is my unique blend of design skills and hands-on experience. Outside of my work hours, I'm constantly diving into new web development technologies, immersing myself in online RPG games, strumming away on the guitar, hitting the gym, and shredding the slopes during winter on my snowboard. 
 
-It's great to meet you! Feel free to drop me a message on LinkedIn anytime. Let's connect! 🚀
+It's great to meet you! Feel free to drop me a message on LinkedIn or send an email anytime. Let's connect! 🚀
 
 ## Skills
 
