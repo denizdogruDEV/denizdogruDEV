@@ -30,6 +30,16 @@ It's great to meet you! Feel free to drop me a message on LinkedIn or send an em
 <a href="https://docs.unity3d.com/Manual/index.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/000000/unity.png" width="36" height="36" alt="Unity" /></a>
 </p>
 
+## Socials
+<p align="left">
+<a href="http://denizdogru.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/social_media_icons/website.svg" width="36" height="36" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/denizdogru/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/social_media_icons/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
+<a href="https://medium.com/@denizdogru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/social_media_icons/medium.svg" width="36" height="36" alt="Medium" /></a>
+<a href="https://almalexxia.itch.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/social_media_icons/itchio.svg" width="36" height="36" alt="itch.io" /></a>
+<a href="https://www.behance.net/denizdogru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/social_media_icons/behance.svg" width="36" height="36" alt="Behance" /></a>
+<a href="https://dribbble.com/denizdogru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/social_media_icons/dribbble.svg" width="36" height="36" alt="Dribble" /></a>
+</p>
+
 ## Stats
 
 [![DenizDogruDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenizDogruDEV)](https://github.com/DenizDogruDEV/github-readme-stats)
