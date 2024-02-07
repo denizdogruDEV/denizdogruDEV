@@ -35,7 +35,7 @@ It's great to meet you! Feel free to drop me a message on LinkedIn or send an em
 <a href="http://denizdogru.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/197996/internet.svg" width="36" height="36" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/denizdogru/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
 <a href="https://medium.com/@denizdogru" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/368814/medium.svg" width="36" height="36" alt="Medium" /></a>
-<a href="https://almalexxia.itch.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/330717/itch-dot-io.svg" width="36" height="36" alt="itch.io" /></a>
+<a href="https://almalexxia.itch.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/330717/itch-dot-io.svg" width="38" height="38" alt="itch.io" /></a>
 <a href="https://www.behance.net/denizdogru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="36" height="36" alt="Behance" /></a>
 <a href="https://dribbble.com/denizdogru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="36" height="36" alt="Dribble" /></a>
 </p>
