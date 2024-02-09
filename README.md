@@ -43,3 +43,4 @@ It's great to meet you! Feel free to drop me a message on LinkedIn or send an em
 ## Stats
 
 [![DenizDogruDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenizDogruDEV)](https://github.com/DenizDogruDEV/github-readme-stats)
+
