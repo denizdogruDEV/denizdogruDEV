@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 I'm <a href="https://www.linkedin.com/in/denizdogru/">Deniz Doğru</a>
 
