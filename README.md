@@ -9,7 +9,6 @@ What sets me apart is my unique blend of design skills and hands-on experience. 
 It's great to meet you! Feel free to drop me a message on LinkedIn or send an email anytime. Let's connect! 🚀
 
 
-
 ## Skills
 
 <p align="left">
