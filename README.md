@@ -9,6 +9,7 @@ What sets me apart is my unique blend of design skills and hands-on experience. 
 It's great to meet you! Feel free to drop me a message on LinkedIn or send an email anytime. Let's connect! 🚀
 
 
+
 ## Socials
 <p align="left">
 <a href="http://denizdogru.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/197996/internet.svg" width="36" height="36" alt="Website" /></a>
