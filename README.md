@@ -1,6 +1,5 @@
 ### Hi there! 👋
 
-
 I'm <a href="https://www.linkedin.com/in/denizdogru/">Deniz Doğru</a>
 
 I'm a self-taught developer who made the leap from architecture to web development. I swiftly secured my current role as a senior frontend developer specialized in B2C Salesforce Commerce Cloud & PWA Headless Architecture with React.js, after just a month of completing a bootcamp program. With a solid background in both frontend and backend development, I thrive on designing and developing websites.
