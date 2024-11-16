@@ -18,8 +18,6 @@ It's great to meet you! Feel free to drop me a message on LinkedIn or send an em
 <a href="https://dribbble.com/denizdogru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="36" height="36" alt="Dribble" /></a>
 </p>
 
-
-
 ## Skills
 
 <p align="left">
