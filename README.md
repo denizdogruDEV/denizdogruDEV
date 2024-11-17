@@ -8,6 +8,7 @@ What sets me apart is my unique blend of design skills and hands-on experience. 
 
 It's great to meet you! Feel free to drop me a message on LinkedIn or send an email anytime. Let's connect! 🚀
 
+
 ## Socials
 <p align="left">
 <a href="http://denizdogru.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/197996/internet.svg" width="36" height="36" alt="Website" /></a>
@@ -38,7 +39,6 @@ It's great to meet you! Feel free to drop me a message on LinkedIn or send an em
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://developer.salesforce.com/docs/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/salesforce.png" width="36" height="36" alt="Salesforce" /></a>
 <a href="https://www.blender.org/manual/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/blender-3d.png" width="36" height="36" alt="Blender" /></a>
-
 </p>
 
 ## Stats
