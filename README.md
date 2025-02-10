@@ -38,7 +38,9 @@ It's great to meet you! Feel free to drop me a message on LinkedIn or send an em
 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/sql.png" width="36" height="36" alt="SQL" /></a>
 </p>
 
-## Stats
+## Github Stats
 
 [![DenizDogruDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenizDogruDEV)](https://github.com/DenizDogruDEV/github-readme-stats)
 
+## Leetcode Stats
+![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/denizdogrudev?theme=dark&bgColor=282828)
