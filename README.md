@@ -9,6 +9,9 @@ What sets me apart is my unique blend of design skills and hands-on experience. 
 It's great to meet you! Feel free to drop me a message on LinkedIn or send an email anytime. Let's connect! 🚀
 
 
+[![](https://raw.githubusercontent.com/denizdogruDEV/denizdogruDEV/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 ## Socials
 <p align="left">
 <a href="http://denizdogru.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/197996/internet.svg" width="36" height="36" alt="Website" /></a>
@@ -36,6 +39,10 @@ It's great to meet you! Feel free to drop me a message on LinkedIn or send an em
 <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/python.png" width="36" height="36" alt="Python" /></a>
 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/sql.png" width="36" height="36" alt="SQL" /></a>
 </p>
+
+
+[![](https://raw.githubusercontent.com/denizdogruDEV/denizdogruDEV/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/denizdogruDEV/denizdogruDEV/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/denizdogruDEV/denizdogruDEV/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/denizdogruDEV/denizdogruDEV/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Github Stats
 <a href="https://github.com/DenizDogruDEV/github-readme-stats">
