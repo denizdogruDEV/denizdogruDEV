@@ -39,7 +39,10 @@ It's great to meet you! Feel free to drop me a message on LinkedIn or send an em
 </p>
 
 ## Github Stats
-[![DenizDogruDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenizDogruDEV&theme=dark&show_icons=true)](https://github.com/DenizDogruDEV/github-readme-stats)
+<a href="https://github.com/DenizDogruDEV/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenizDogruDEV&theme=dark&show_icons=true" width="500" />
+</a>
 
 ## Leetcode Stats
-![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/denizdogrudev?theme=dark&bgColor=282828)
+<img align="center" src="https://leetcode-badge-sage.vercel.app/badge/denizdogrudev?theme=dark&bgColor=282828" width="500" />
+
