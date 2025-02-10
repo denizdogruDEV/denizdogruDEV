@@ -9,9 +9,6 @@ What sets me apart is my unique blend of design skills and hands-on experience. 
 It's great to meet you! Feel free to drop me a message on LinkedIn or send an email anytime. Let's connect! 🚀
 
 
-[![](https://raw.githubusercontent.com/denizdogruDEV/denizdogruDEV/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
 ## Socials
 <p align="left">
 <a href="http://denizdogru.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/197996/internet.svg" width="36" height="36" alt="Website" /></a>
@@ -40,15 +37,10 @@ It's great to meet you! Feel free to drop me a message on LinkedIn or send an em
 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/sql.png" width="36" height="36" alt="SQL" /></a>
 </p>
 
+## Stats
 
-[![](https://raw.githubusercontent.com/denizdogruDEV/denizdogruDEV/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/denizdogruDEV/denizdogruDEV/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/denizdogruDEV/denizdogruDEV/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/denizdogruDEV/denizdogruDEV/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-## Github Stats
-<a href="https://github.com/DenizDogruDEV/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenizDogruDEV&theme=dark&show_icons=true" width="500" />
-</a>
-
-## Leetcode Stats
-<img align="center" src="https://leetcode-badge-sage.vercel.app/badge/denizdogrudev?theme=dark&bgColor=282828" width="500" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DenizDogruDEV&theme=dark&show_icons=true" width="49%" />
+  <img src="https://leetcode-badge-sage.vercel.app/badge/denizdogrudev?theme=dark&bgColor=282828" width="49%" />
+</p>
 
