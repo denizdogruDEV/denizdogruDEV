@@ -18,7 +18,7 @@
 🧑🏽‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/denizdogru)
 
 </div>
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11100330735)
 <br/>
 <div align="left">
 <details>
