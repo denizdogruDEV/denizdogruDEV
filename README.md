@@ -22,7 +22,14 @@
 ## Stats
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=denizdogruDEV&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00B4D9,5FB5D9&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
-    <img src="https://leetcard.jacoblin.cool/denizdogru?theme=nord&font=Ubuntu&ext=activity" alt="LeetCode Badges">
+     <br />
+    <details>
+        <summary>
+            💻 LeetCode
+        </summary>
+        <br />
+        <img src="https://leetcard.jacoblin.cool/denizdogru?theme=nord&font=Ubuntu&ext=activity" alt="LeetCode Badges">
+    </details>
 </div>
 
 ## Coding Soundtracks
