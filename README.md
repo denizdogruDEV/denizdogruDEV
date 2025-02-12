@@ -25,7 +25,7 @@
     📈 Stats for fun
     </summary>
     <br />
-    <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=denizdogru&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
+    <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=denizdogruDEV&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
 </details>
 
 <br />
