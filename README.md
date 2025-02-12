@@ -29,7 +29,7 @@
             💻 LeetCode
         </summary>
         <br />
-        <img src="https://leetcard.jacoblin.cool/denizdogru?theme=nord&font=Ubuntu&ext=activity" alt="LeetCode Badges">
+        <img src="https://leetcard.jacoblin.cool/denizdogru?theme=nord&font=Noto%20Sans&ext=activity" alt="LeetCode Badges">
     </details>
 </div>
 
