@@ -20,7 +20,6 @@
 </div>
 
 ## Stats
-https://spotify-recently-played-readme.vercel.app/api?user=11100330735
 <div>
     <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=denizdogruDEV&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00B4D9,5FB5D9&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=denizdogru&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
