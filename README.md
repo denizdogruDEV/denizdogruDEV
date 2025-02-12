@@ -11,7 +11,7 @@
 
 🎮 5-9: After hours, I'm all about sharpening my fullstack skills while diving deep into the world of AI, ML, and Deep Learning. Every evening is a chance to explore new technologies and expand my coding universe.
 
-❄️ Outside the tech bubble, immersing myself in online RPG games, strumming away on the guitar, hitting the gym, shredding the slopes during winter on my snowboard and rollerskating during the spring.
+❄️ Outside the tech bubble, immersing myself in RPG games, strumming away on the guitar, hitting the gym, shredding the slopes during winter on my snowboard and rollerskating during the spring.
 
 🌐 Hop onto my personal website - [denizdogru.com](https://denizdogru.com)
 
