@@ -31,6 +31,15 @@
         <br />
         <img src="https://leetcard.jacoblin.cool/denizdogru?theme=nord&font=Noto%20Sans&ext=activity" alt="LeetCode Badges">
     </details>
+    <br />
+    <br />
+    <details>
+        <summary>
+        🦉 Duolingo
+        </summary>
+    <br />
+    <img src="https://duolingo-stats-card.vercel.app/api?username=Deniz_dogru&sort=xp" alt="Duolingo Stats">
+    </details>
 </div>
 
 ## Coding Soundtracks
