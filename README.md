@@ -1,45 +1,61 @@
-### Hi there! 👋
+<div align="left">
+    <h1>👋🏻 Hey! I'm <a href="denizdogru.com" target="_blank">Deniz</a></h1>
+<div>
 
-I'm <a href="https://www.linkedin.com/in/denizdogru/">Deniz Doğru</a>
+<div align="left">
+<h3>🚀 I thrive on tackling challenges by experimenting with cutting-edge technologies!</h3>
 
-I'm a self-taught developer who made the leap from architecture to web development. I swiftly secured my current role as a technical lead, specialized in B2C Salesforce Commerce Cloud & PWA Headless Architecture with React.js, Node.js, Typescript and Javascript after just a month of completing a bootcamp program. With a solid background in both frontend and backend development, I thrive on designing and developing websites.
+💼 9-5: I'm a self-taught developer who made the bold jump from architecture to software development. Just a month into my bootcamp, I landed a fullstack role working with React.js, Node.js, TypeScript, JavaScript, and Python. Fast forward three years, and I've risen to Technical Lead—constantly learning, leading, and pushing boundaries.
 
-What sets me apart is my unique blend of design skills and hands-on experience. Outside of my work hours, I'm constantly diving into new web development technologies, immersing myself in online RPG games, strumming away on the guitar, hitting the gym, and shredding the slopes during winter on my snowboard. 
+🤖 5-9: After hours, I'm all about sharpening my fullstack skills while diving deep into the world of AI, ML, and Deep Learning. Every evening is a chance to explore new technologies and expand my coding universe.
 
-It's great to meet you! Feel free to drop me a message on LinkedIn or send an email anytime. Let's connect! 🚀
+💖 Outside the tech bubble, immersing myself in online RPG games, strumming away on the guitar, hitting the gym, and shredding the slopes during winter on my snowboard and rollerskating during the spring.
 
+🌐 Hop onto my personal website - [denizdogru.com](https://denizdogru.com)
 
-## Socials
-<p align="left">
-<a href="http://denizdogru.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/197996/internet.svg" width="36" height="36" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/denizdogru/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
-<a href="https://denizdogru.medium.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/368814/medium.svg" width="36" height="36" alt="Medium" /></a>
-<a href="https://almalexxia.itch.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/330717/itch-dot-io.svg" width="38" height="38" alt="itch.io" /></a>
-<a href="https://www.behance.net/denizdogru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="36" height="36" alt="Behance" /></a>
-<a href="https://dribbble.com/denizdogru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="36" height="36" alt="Dribble" /></a>
-</p>
+💼 Let's connect on [LinkedIn](https://linkedin.com/in/denizdogru)!
 
-## Skills
+🧑🏽‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/denizdogru)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://developer.salesforce.com/docs/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/salesforce.png" width="36" height="36" alt="Salesforce" /></a>
-<a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/python.png" width="36" height="36" alt="Python" /></a>
-<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/sql.png" width="36" height="36" alt="SQL" /></a>
-</p>
+</div>
 
-## Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenizDogruDEV&theme=dark&show_icons=true" height="180px" style="margin-right: 10px;"/>
-  <img src="https://leetcode-badge-sage.vercel.app/badge/denizdogrudev?theme=dark&bgColor=282828" height="180px"/>
-</p>
+<br/>
+<div align="left">
+<details>
+    <summary>
+    📈 Stats for fun
+    </summary>
+    <br />
+    <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=denizdogru&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
+</details>
 
+<br />
+
+<details>
+    <summary>
+    🎵 What I've been listening to
+    </summary>
+    <br />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=denizdogru" alt="Spotify Recently Played">
+</details>
+
+<br />
+
+<details>
+    <summary>
+    🧑🏽‍💻 LeetCode
+    </summary>
+    <br />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=denizdogru&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
+</details>
+
+<br />
+
+<details>
+    <summary>
+    🦉 Duolingo
+    </summary>
+    <br />
+    <img src="https://duolingo-stats-card.vercel.app/api?username=Deniz_dogru&sort=xp" alt="Duolingo Stats">
+</details>
+</div>
