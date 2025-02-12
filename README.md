@@ -49,13 +49,4 @@
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=denizdogru&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
 </details>
 
-<br />
-
-<details>
-    <summary>
-    🦉 Duolingo
-    </summary>
-    <br />
-    <img src="https://duolingo-stats-card.vercel.app/api?username=Deniz_dogru&sort=xp" alt="Duolingo Stats">
-</details>
 </div>
