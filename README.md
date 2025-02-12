@@ -32,7 +32,6 @@
         <img src="https://leetcard.jacoblin.cool/denizdogru?theme=nord&font=Noto%20Sans&ext=activity" alt="LeetCode Badges">
     </details>
     <br />
-    <br />
     <details>
         <summary>
         🦉 Duolingo
