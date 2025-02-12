@@ -36,7 +36,7 @@
     🎵 What I've been listening to
     </summary>
     <br />
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=denizdogru" alt="Spotify Recently Played">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1110033073" alt="Spotify Recently Played">
 </details>
 
 <br />
