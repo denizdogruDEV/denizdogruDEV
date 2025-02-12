@@ -19,33 +19,12 @@
 
 </div>
 <br/>
-<div align="left">
-<details>
-    <summary>
-    📈 Stats for fun
-    </summary>
-    <br />
-    <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=denizdogruDEV&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
-</details>
+## Stats
+<img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=denizdogruDEV&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=denizdogru&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
 
 <br />
-
-<details>
-    <summary>
-    🎵 What I've been listening to
-    </summary>
-    <br />
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1110033073" alt="Spotify Recently Played">
-</details>
-
-<br />
-
-<details>
-    <summary>
-    🧑🏽‍💻 LeetCode
-    </summary>
-    <br />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=denizdogru&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
-</details>
+## Coding playlist
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=1110033073" alt="Spotify Recently Played">
 
 </div>
