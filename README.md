@@ -41,6 +41,6 @@ It's great to meet you! Feel free to drop me a message on LinkedIn or send an em
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DenizDogruDEV&theme=dark&show_icons=true" height="180px" style="margin-right: 10px;"/>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=denizdogrudev&theme=dark&border=no-border&animated=false" height="180px"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=denizdogrudev&theme=dark" height="180px"/>
 </p>
 
