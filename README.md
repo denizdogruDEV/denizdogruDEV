@@ -22,7 +22,7 @@
 ## Stats
 
 <div>
-    <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=denizdogruDEV&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
+    <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=denizdogruDEV&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00B4D9,5FB5D9&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=denizdogru&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
 </div>
 
