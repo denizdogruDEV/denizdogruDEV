@@ -9,9 +9,9 @@
 
 💼 9-5: I'm a self-taught developer who made the bold jump from architecture to software development. Just a month into my bootcamp, I landed a fullstack role working with React.js, Node.js, TypeScript, JavaScript, and Python. Fast forward three years, and I've risen to Technical Lead—constantly learning, leading, and pushing boundaries.
 
-🎮 5-9: After hours, I'm all about sharpening my fullstack skills while diving deep into the world of AI, ML, and Deep Learning. Every evening is a chance to explore new technologies and expand my coding universe.
+❄️ 5-9: After hours, I'm all about sharpening my fullstack skills while diving deep into the world of AI, ML, and Deep Learning. Every evening is a chance to explore new technologies and expand my coding universe.
 
-❄️ Outside the tech bubble, immersing myself in RPG games, strumming away on the guitar, hitting the gym, shredding the slopes during winter on my snowboard and rollerskating during the spring.
+🎮 Outside the tech bubble, immersing myself in RPG games, strumming away on the guitar, hitting the gym, shredding the slopes during winter on my snowboard and rollerskating during the spring.
 
 🌐 Hop onto my personal website - [denizdogru.com](https://denizdogru.com)
 
