@@ -1,7 +1,7 @@
 <div align="left">
     <h1>👋🏻 Hey! I'm <a href="denizdogru.com" target="_blank">Deniz</a></h1>
     <br/>
-    <img src="./gif/pixel.gif" height="300px" width="auto">
+    <img src="./gif/pixel-dev.gif" height="300px" width="auto">
 <div>
 
 <div align="left">
