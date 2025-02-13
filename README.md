@@ -23,7 +23,7 @@
 
 ## Stats
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=denizdogruDEV&border_radius=10px&title_color=4a738d&text_color=4a738d&show_icons=true&bg_color=45,d7fcfc,9aeefa&icon_color=9aeefa&hide_border=true&rank_icon=github" alt="Github Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=denizdogruDEV&border_radius=10px&title_color=4a738d&text_color=4a738d&show_icons=true&bg_color=45,B3DAF1,D6EAF8&icon_color=9aeefa&hide_border=true&rank_icon=github" alt="Github Stats">
      <br />
     <br />
     <details>
