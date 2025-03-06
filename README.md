@@ -18,7 +18,6 @@
 💼 Let's connect on [LinkedIn](https://linkedin.com/in/denizdogru)!
 
 👩🏻‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/denizdogru)
-
 </div>
 
 ## Stats
