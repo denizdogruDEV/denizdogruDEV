@@ -41,14 +41,13 @@
     </details>
     <details>
         <summary>
-         Chess.com
+            ♛ Chess.com
         </summary>
-    <br />
-    <!--START_SECTION:chessStats-->
+      <br />
+      <!--START_SECTION:chessStats-->
 
-    <!--END_SECTION:chessStats-->
-    
-    </details>
+        <!--END_SECTION:chessStats-->
+</details>
 </div>
 
 ## Coding Soundtracks
