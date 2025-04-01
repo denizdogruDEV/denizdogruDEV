@@ -1,0 +1,21 @@
+name: Chess Games & Stats Action
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with your Chess.com stats and games
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update Chess Stats
+        uses: Balastrong/chess-stats-action@main
+        with:
+          CHESS_USERNAME: deniz_dogru  # ← Replace with your actual Chess.com username
