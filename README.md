@@ -39,6 +39,16 @@
     <br />
     <img src="https://duolingo-stats-card.vercel.app/api?username=Deniz_dogru&sort=xp" alt="Duolingo Stats">
     </details>
+    <details>
+        <summary>
+         Chess.com
+        </summary>
+    <br />
+    <!--START_SECTION:chessStats-->
+
+    <!--END_SECTION:chessStats-->
+    
+    </details>
 </div>
 
 ## Coding Soundtracks
