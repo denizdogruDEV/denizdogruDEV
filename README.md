@@ -41,7 +41,7 @@
     </details>
     <details>
   <summary>
-    ♛ Chess.com
+     ♛ Chess.com
   </summary>
   <br />
   <!--START_SECTION:chessStats-->
