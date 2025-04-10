@@ -48,7 +48,6 @@
 
   <!--END_SECTION:chessStats-->
 </details>
-
 </div>
 
 ## Coding Soundtracks
