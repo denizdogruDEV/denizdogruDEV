@@ -5,7 +5,7 @@
 <div>
 
 <div align="left">
-<h3>🏂 I thrive on tackling challenges by experimenting with cutting-edge technologies!</h3>
+<h3>🏂 a Software Developer based in Izmir, Turkiye!</h3>
 
 💼 9-5: I'm a self-taught developer who made the bold jump from architecture to software development. Just a month into my bootcamp, I landed a fullstack role working with React.js, Node.js, TypeScript, JavaScript, and Python. Fast forward three years, and I've risen to Technical Lead—constantly learning, leading, and pushing boundaries.
 
