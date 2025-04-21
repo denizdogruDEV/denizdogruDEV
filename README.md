@@ -45,8 +45,18 @@
   </summary>
   <br />
   <!--START_SECTION:chessStats-->
+<!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
-  <!--END_SECTION:chessStats-->
+| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
+|:---:|:---:|:---:|:---:|
+| Current | 564 | No Rating | No Rating |
+| Best | No Rating | No Rating | No Rating |
+
+| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| queenz22 | **deniz_dogru** | win 🥇 | 21/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4RB2/pN5p/5k2/2p2p2/6n1/1P2n1P1/P1P3rP/6KR w - - 9 35">Link</a> | Rapid |
+
+<!--END_SECTION:chessStats-->
 </details>
 </div>
 
