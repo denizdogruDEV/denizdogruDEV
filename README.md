@@ -1,68 +1,73 @@
 <div align="left">
-    <h1>👋🏻 Hey! I'm <a href="denizdogru.com" target="_blank">Deniz</a></h1>
+    <h1>👋🏻 Hey! I'm <a href="https://denizdogru.com" target="_blank">Deniz</a></h1>
     <br/>
     <img src="./gif/pixel-dev.gif" height="300px" width="auto">
-<div>
-
-<div align="left">
-<h3>🏂 a Fullstack Software Developer and Technical Lead based in Izmir, Turkiye!</h3>
-
-💼 9-5: I'm a self-taught developer who made the bold jump from architecture to software development. Just a month into my bootcamp, I landed a fullstack role working with React.js, Node.js, TypeScript, JavaScript, and Python. Fast forward three years, and I've risen to Technical Lead—constantly learning, leading, and pushing boundaries.
-
-❄️ 5-9: After hours, I'm all about sharpening my fullstack skills while diving deep into the world of AI, ML, and Deep Learning. Every evening is a chance to explore new technologies and expand my coding universe.
-
-🎮 Outside the tech bubble, immersing myself in RPG games, strumming away on the guitar, hitting the gym, shredding the slopes during winter on my snowboard and rollerskating during the spring.
-
-🌐 Hop onto my personal website - [denizdogru.com](https://denizdogru.com)
-
-💼 Let's connect on [LinkedIn](https://linkedin.com/in/denizdogru)!
-
-👩🏻‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/denizdogru)
 </div>
 
-## Stats
+<div align="left">
+<h3>🌍 Fullstack Engineer | Technical Lead | Product-Minded Builder</h3>
+
+💼 By day: I'm a self-taught developer who pivoted from architecture to engineering. Within one month of bootcamp, I landed my first fullstack role. In just three years, I’ve grown into a **Technical Lead**—building scalable systems, mentoring developers, and leading cross-functional teams on international e-commerce projects.
+
+🚀 I work with **React**, **Node.js**, **TypeScript**, **Python**, and **JavaScript** daily. I've led solutions from API design to deployment, contributed to data-driven product decisions, and championed user experience alongside designers and data scientists.
+
+🌐 I'm passionate about building inclusive, global products that reach millions—especially platforms that power real-world experiences, like travel. That’s why I’m excited about opportunities like **Booking.com**, where scale, impact, and user empowerment intersect.
+
+🧠 After hours: I explore AI, machine learning, and system architecture. I enjoy solving LeetCode challenges and refining my backend skills with Docker, PostgreSQL, and distributed systems.
+
+🎮 Outside code: RPGs, guitar, fitness, snowboarding, and creative side projects keep my world well-rounded.
+
+📫 Let’s connect on [LinkedIn](https://linkedin.com/in/denizdogru) or check out my personal site → [denizdogru.com](https://denizdogru.com)
+
+👩🏻‍💻 Check out my fullstack journey and live projects in my pinned repos or on [LeetCode](https://leetcode.com/denizdogru)
+</div>
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages**: JavaScript, TypeScript, Python, Java, HTML/CSS
+- **Frameworks**: React, Node.js, Express, Redux, SFRA
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Tools**: Docker, Git, Kubernetes (basics), GraphQL (exploring)
+- **Practices**: TDD, A/B Testing, Code Reviews, CI/CD, SLI/SLO monitoring
+
+---
+
+## 📊 GitHub & Activity
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=denizdogruDEV&border_radius=10px&title_color=4a738d&text_color=4a738d&show_icons=true&bg_color=45,B3DAF1,D6EAF8&icon_color=9aeefa&hide_border=true&rank_icon=github" alt="Github Stats">
-     <br />
-    <br />
+    <br/>
+    <br/>
     <details>
-        <summary>
-            💻 LeetCode
-        </summary>
+        <summary>💻 LeetCode</summary>
         <br />
         <img src="https://leetcard.jacoblin.cool/denizdogru?theme=nord&font=Noto%20Sans&ext=activity" alt="LeetCode Badges">
     </details>
     <details>
-        <summary>
-        🦉 Duolingo
-        </summary>
-    <br />
-    <img src="https://duolingo-stats-card.vercel.app/api?username=Deniz_dogru&sort=xp" alt="Duolingo Stats">
+        <summary>🦉 Duolingo</summary>
+        <br />
+        <img src="https://duolingo-stats-card.vercel.app/api?username=Deniz_dogru&sort=xp" alt="Duolingo Stats">
     </details>
     <details>
-  <summary>
-     ♛ Chess.com
-  </summary>
-  <br />
-  <!--START_SECTION:chessStats-->
-<!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
+        <summary>♛ Chess.com</summary>
+        <br />
+        <!--START_SECTION:chessStats-->
+        | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
+        |:---:|:---:|:---:|:---:|
+        | Current | 564 | No Rating | No Rating |
+        | Best | No Rating | No Rating | No Rating |
 
-
-| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
-|:---:|:---:|:---:|:---:|
-| Current | 564 | No Rating | No Rating |
-| Best | No Rating | No Rating | No Rating |
-
-| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| queenz22 | **deniz_dogru** | win 🥇 | 21/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4RB2/pN5p/5k2/2p2p2/6n1/1P2n1P1/P1P3rP/6KR w - - 9 35">Link</a> | Rapid |
-
-<!--END_SECTION:chessStats-->
-</details>
+        | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
+        |:---:|:---:|:---:|:---:|:---:|:---:|
+        | queenz22 | **deniz_dogru** | win 🥇 | 21/4/2025 | [Link](http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4RB2/pN5p/5k2/2p2p2/6n1/1P2n1P1/P1P3rP/6KR w - - 9 35) | Rapid |
+        <!--END_SECTION:chessStats-->
+    </details>
 </div>
 
+---
 
-## Coding Soundtracks
+## 🎵 Coding Soundtracks
 <div>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=11100330735" alt="Spotify Recently Played">
 </div>
