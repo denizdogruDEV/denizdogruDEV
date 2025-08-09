@@ -57,3 +57,4 @@
 <div>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=11100330735" alt="Spotify Recently Played">
 </div>
+
